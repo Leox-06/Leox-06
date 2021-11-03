@@ -16,7 +16,7 @@
 - 😄 Pronouns: I don't know what does it mean😂
 - ⚡ Fun fact: I don't know why i'm studing latin
  
-### languages and tools:
+### 🛠 languages and tools:
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leox-06&layout=compact&theme=dark">
 
 <img align=left height="50" src="https://raw.githubusercontent.com/Leox-06/Leox-06/main/assets/cpp/cpp.svg">
