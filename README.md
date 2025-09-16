@@ -69,13 +69,23 @@
 
 ## 🎮 Projects
 
-### Project 1: **ASTEROIDS**
+### Project 1: **ASTEROIDS** <img src="projects/asteroids/icon.png" alt="Icon" width="35"/>
+
+<img src="projects/asteroids/banner.png" alt="Banner" width="25%" align="right"/>
+
 - Role: Indie Developer
 - Tools: Godot, GDScript
 - Description: A copy of famous arcade game with some features added.
 - Demo: [Play Online](https://www.gamepix.com/it/play/asteroids)
 
-### Project 2: **Duck shooter**
+
+---
+
+
+### Project 2: **Duck shooter** <img src="projects/duck_shooter/icon.png" alt="Icon" width="35"/>
+
+<img src="projects/duck_shooter/banner.png" alt="Banner" width="25%" align="right"/>
+
 - Role: Indie Developer
 - Tools: Godot, GDScript
 - Description: A fun shooting gallery where players aim at duck-shaped targets with rifle.
