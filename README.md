@@ -1,18 +1,19 @@
-<img align=right src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png">
+<img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png"/>
 
 # Hi there 👋
 
->Hi i'm **Leonardo🦁 Mimmo**, a Italian🍕 boy who likes computer👨‍💻 and electronics🔌. My birthday🎉 is on ✨1st March 2006✨.<br>
->I attend the scientific🧪 high school📚. Maybe in the future I will be an engineer 👨‍🔧🛠⚙📋
+> Hi, I'm **Leonardo🦁 Mimmo**, an aspiring Game Developer and 3D Artist from Italy 🇮🇹.  
+> I love creating games, exploring Godot & Blender, and experimenting with 3D art and interactive experiences.  
 
-- 🔭 I’m currently working on interesting projects
-- 🌱 I’m currently learning programming languages
-- 👯 I’m looking to collaborate on cool projects
-- 🤔 I’m looking for help with all about computers
-- 💬 Ask me about everything
-- 📫 How to reach me: *leoxmimmo@gmail.com*
-- ⚡ Fun fact: I hate python
- 
+- 🔭 I’m currently working on **Godot projects and 3D models**  
+- 🌱 I’m learning **advanced game development, animation, and level design**  
+- 👯 I’m looking to collaborate on **cool game projects**  
+- 💬 Ask me about **Godot, Blender, 3D modeling, or programming**  
+- 📫 How to reach me: **leoxmimmo@gmail.com**  
+- ⚡ Fun fact: I integrate my own **pixel art style** into game projects  
+
+---
+
 ### 🛠 languages and tools:
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leox-06&layout=compact&theme=dark">
 
@@ -64,7 +65,30 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+---
 
+## 🎮 Projects
+
+### Project 1: **ASTEROIDS**
+- Role: Indie Developer
+- Tools: Godot, GDScript
+- Description: A copy of famous arcade game with some features added.
+- Demo: [Play Online](https://www.gamepix.com/it/play/asteroids)
+
+### Project 2: **Duck shooter**
+- Role: Indie Developer
+- Tools: Godot, GDScript
+- Description: A fun shooting gallery where players aim at duck-shaped targets with rifle.
+- Demo: [Play Online](https://www.gamepix.com/it/play/duck-shooter)
+
+*(new progects and 3d games coming soon)*
+
+---
+
+## 📫 Contact Me
+
+- Email: leoxmimmo@gmail.com  
+
+---
+
+*“Creating games is about turning imagination into playable experiences.”*
